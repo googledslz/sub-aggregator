@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 增加以下这段
+    permissions:
+      contents: write  # 赋予写入仓库内容的权限
 
     steps:
       - name: Checkout repo
