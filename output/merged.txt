@@ -1,4 +1,4 @@
-vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fws%2F01200f5c-5321-d946-7028-0661ea0a2c0e&host=x4g-production-c71f.up.railway.app&sni=x4g-production-c71f.up.railway.app&alpn=http%2F1.1&insecure=0&allowInsecure=0#IranV31
+vless://04413f85-9929-13ea-1f36-08d139734b10@x4g-production-4de6.up.railway.app:443?path=%2Fws%2F04413f85-9929-13ea-1f36-08d139734b10&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4de6.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-4de6.up.railway.app#IranV31
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#IranV31
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#IranV31
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.207:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#IranV31
@@ -10,7 +10,7 @@ vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?security=reality&e
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&encryption=none&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=telegraph.co.uk&sid=deee73#IranV31
 vless://2bf9e9f4-f8ef-4e46-8bfc-f5ef648817f7@172.67.66.177:443?path=%2F7D8L6oV0pjufcpvH%2FNDMuMTMxLjQ5LjI1MA%3D%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=gOogLe-9HA.pageS.dEV&fp=randomized&type=ws&sni=pAGeS.deV#IranV31
 vless://31aa0950-eb19-45ff-94a2-af416deb3b90@45.130.125.207:8443?path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV#IranV31
-vless://04413f85-9929-13ea-1f36-08d139734b10@x4g-production-4de6.up.railway.app:443?path=%2Fws%2F04413f85-9929-13ea-1f36-08d139734b10&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4de6.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-4de6.up.railway.app#IranV31
+vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fws%2F01200f5c-5321-d946-7028-0661ea0a2c0e&host=x4g-production-c71f.up.railway.app&sni=x4g-production-c71f.up.railway.app&alpn=http%2F1.1&insecure=0&allowInsecure=0#IranV31
 vless://37847c7e-ef5e-49cc-b6ac-0b3b5a7863f2@khc.dearhossein-taktaz.ir:443?encryption=none&type=tcp&security=reality&headerType=http&host=play.google.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=A_i3XS8URva3ya7OkH05o4DRNin77O3kiJ98Ge_Qh2k&sid=a46330177b55b1&spx=%2FessUirVT3Rny7nN#IranV31
 vless://3be4a124-a437-4eef-8d14-00175978a826@45.131.182.141:443?security=reality&encryption=none&pbk=3BbMRgbSVAi881UEncK5aHJiicG27Fvx7Vr9xmnc-14&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=4b2519a45b0f35c4#IranV31
 vless://37847c7e-ef5e-49cc-b6ac-0b3b5a7863f2@khc.dearhossein-taktaz.ir:443?security=reality&encryption=none&pbk=A_i3XS8URva3ya7OkH05o4DRNin77O3kiJ98Ge_Qh2k&host=play.google.com&headerType=http&fp=chrome&spx=%2FessUirVT3Rny7nN&type=tcp&sni=www.yahoo.com&sid=a46330177b55b1#IranV31
@@ -23,13 +23,13 @@ vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?path=%2F&secur
 vless://4e155a2f-c1b1-4ce7-9f4e-47fdcc4d8f0f@dew.fizikade.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=SQOHWkwXxz5t1u1wvHCd4A_kAGBWngUsg97GIungc0g&sid=9f042169&spx=%2Fnaranv2ray#IranV31
 vless://4e37ec19-064c-41fe-a218-42b093d2ca5f@31.76.10.180:2087?encryption=none&type=xhttp&security=reality&path=%2F&host=vip-de2-unlimited.relqino.ir&mode=auto&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&sid=e898156ae00ddeb8#IranV31
 vless://4e155a2f-c1b1-4ce7-9f4e-47fdcc4d8f0f@dew.fizikade.ir:443?security=reality&encryption=none&pbk=SQOHWkwXxz5t1u1wvHCd4A_kAGBWngUsg97GIungc0g&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&spx=%2Fnaranv2ray&type=tcp&sni=play.google.com&sid=9f042169#IranV31
-vless://4e37ec19-064c-41fe-a218-42b093d2ca5f@vip-de2-unlimited.relqino.ir:2087?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&sid=e898156ae00ddeb8&allowinsecure=0&type=xhttp&mode=auto&host=vip-de2-unlimited.relqino.ir&path=%2F#IranV31
+vless://51cd32d6-84ac-b048-2965-93800e6d1957@x4g-production-a9e0.up.railway.app:443?path=%2Fws%2F51cd32d6-84ac-b048-2965-93800e6d1957&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-a9e0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-a9e0.up.railway.app#IranV31
 vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?security=reality&encryption=none&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=d23753491eefde7e#IranV31
 vless://5b25a339-bf7e-2673-1960-919233576ee0@69.46.46.33:443?encryption=none&type=ws&security=tls&path=%2Fws%2F5b25a339-bf7e-2673-1960-919233576ee0&host=trollhastambotrvg-production-162c.up.railway.app&sni=trollhastambotrvg-production-162c.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#IranV31
 vless://5d306585-adb5-4698-89fa-9648de4f3a55@151.101.2.219:443?security=tls&sni=cdn.speedtest.net&type=ws&host=cdn.coinc.com&path=/#IranV31
 vless://5eb4f51f-e6db-4a65-9929-6385d6193519@mail.ja.1249.moviechi.com:2053?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=okohyxuq296XCeayRFgmoPTCtf6ChcQwWDizeHvUHRc&sid=6ccefb4e2dbdb07f#IranV31
 vless://5eb4f51f-e6db-4a65-9929-6385d6193519@mail.ja.1249.moviechi.com:8443?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&sni=chat.deepseek.com&fp=chrome&pbk=ZAOGtSFsihBl7xF8zKvCIIxJ8Of8AHkmeLGDdI0aAj8&sid=27a0c9e7f21c5125#IranV31
-vless://51cd32d6-84ac-b048-2965-93800e6d1957@x4g-production-a9e0.up.railway.app:443?path=%2Fws%2F51cd32d6-84ac-b048-2965-93800e6d1957&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-a9e0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-a9e0.up.railway.app#IranV31
+vless://5eb4f51f-e6db-4a65-9929-6385d6193519@nl.127.website.iramssnew2.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=Smi_AXQWtjM4kd3Mf8bQQWV5rX1mUcecRSXACDN_NUg&sid=d5cfecb7b6c9bcd2#IranV31
 vless://5eb4f51f-e6db-4a65-9929-6385d6193519@tr.game.goiramteam.ir:443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#IranV31
 vless://63799b8b-df83-81fb-1fee-9cf67dd2d4db@x4g-production-6820.up.railway.app:443?path=%2Fws%2F63799b8b-df83-81fb-1fee-9cf67dd2d4db&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-6820.up.railway.app&fp=ios&type=ws&sni=x4g-production-6820.up.railway.app#IranV31
 vless://63b7926a-1c11-44ab-a5ee-9546ede8e32e@marzban-node-production-b513.up.railway.app:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-b513.up.railway.app&sni=marzban-node-production-b513.up.railway.app&fp=ios&alpn=h2#IranV31
@@ -194,13 +194,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#IranV31
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#IranV31
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#IranV31
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pusytroller.gq&encryption=none&path=/&security=none&type=ws#IranV31
-vless://5da0ef6a-eb08-4a7c-a982-b68d3a04b0a8@run.gigicalla.ir:2082?encryption=none&security=none&type=tcp#IranV31
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?security=&encryption=none&type=grpc#IranV31
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@support.zoom.us:80?&type=ws&headerType=none&host=sahanwickramasinghevip.shop&path=%2F#IranV31
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo17.fordnsdirect.shop:8880?mode=gun&security=&encryption=none&type=grpc#IranV31
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#IranV31
@@ -220,6 +213,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#IranV31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#IranV31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#IranV31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#IranV31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#IranV31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#IranV31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#IranV31
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.254.36:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IranV31
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#IranV31
 vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#IranV31
