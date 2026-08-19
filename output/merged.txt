@@ -296,5 +296,5 @@ trojan://fg20mtCFHy@165.22.240.82:6201?sni=psjvs.southbyte.xyz&allowInsecure=1&t
 trojan://fg20mtCFHy@170.64.161.111:5843?sni=geasd.southbyte.xyz&allowInsecure=1&type=tcp&fp=chrome#IranV31
 trojan://fg20mtCFHy@172.104.108.4:5443?sni=uchxc.southbyte.xyz&allowInsecure=1&type=tcp&fp=chrome#IranV31
 trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f#IranV31
-vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?encryption=none&security=reality&sni=shop-eu-de.amd.com&fp=firefox&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&sid=09&spx=%2Fd1391238c7e6e89&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#IranV31
-vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=firefox&spx=%2Fd1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#IranV31
+vless://5bf59cec-57e0-47ee-9904-3ea8121f3302@irandiar.ghafgh.ir:2020?security=none&encryption=none&headerType=none&type=tcp#IranV31
+vless://78ea88f2-e74c-4aed-a938-9ef85a599262@online2.moyanri.org:40256?type=tcp&security=none&headerType=http&path=/&host=#IranV31
