@@ -6,8 +6,8 @@ trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=ch
 vless://2070ba69-6fc7-4cc9-9c8f-196be6aa9b3c@cloud.nexun.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ars.nexun.ir#IranV31
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@188.114.98.0:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#IranV31
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@190.93.244.3:2053?security=tls&encryption=none&insecure=0&host=ity.ecoping2.org&type=ws&allowInsecure=0&sni=ity.ecoping2.org#IranV31
-vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@cld2.lordofwest.ir:2053?security=tls&encryption=none&insecure=0&host=Seattle.r1cx.ir&type=ws&allowInsecure=0&sni=Seattle.r1cx.ir#IranV31
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@cld2.lordofwest.ir:2053?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=atla.r1cx.ir#IranV31
+vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@cld2.lordofwest.ir:2053?security=tls&encryption=none&insecure=0&host=Seattle.r1cx.ir&type=ws&allowInsecure=0&sni=Seattle.r1cx.ir#IranV31
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@cld2.lordofwest.ir:2053?security=tls&encryption=none&insecure=0&host=ksdzzz.ecoping2.org&fp=chrome&type=ws&allowInsecure=0&sni=ksdzzz.ecoping2.org#IranV31
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@188.114.98.23:2053?security=tls&encryption=none&insecure=0&host=lin.ecoglass.ir&type=ws&allowInsecure=0&sni=lin.ecoglass.ir#IranV31
 vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@cld2.lordofwest.ir:2053?security=tls&encryption=none&insecure=0&host=greece.lumeshop.ir&type=ws&allowInsecure=0&sni=greece.lumeshop.ir#IranV31
@@ -189,6 +189,7 @@ trojan://3ig0ulsvoo9t4f6s@194.110.24.28:8080?path=%2Fsksshkssosshsbzhzka&securit
 trojan://5f205628a5144ee2979c0e1daac9fe6a@US.1.diginoisb.ir:80?path=%2Froot&security=tls&alpn=http%2F1.1&insecure=0&host=panel.IR.www.vpxpp.ir&fp=chrome&ech=AGj%2BDQBkAAAgACCKLU1YYCDyeQauMPLE1yfRyDSbpDlf%2FMT1rCGjBvOyLQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABVwYW5lbC5JUi53d3cudnB4cHAuaXIAAA%3D%3D&type=ws&allowInsecure=0&sni=panel.IR.www.vpxpp.ir#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#IranV31
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:8080?path=%2F&security=&encryption=none&type=ws#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#IranV31
@@ -220,7 +221,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#IranV31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#IranV31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#IranV31
 vless://5bf59cec-57e0-47ee-9904-3ea8121f3302@irandiar.ghafgh.ir:2020?security=none&encryption=none&headerType=none&type=tcp#IranV31
 vless://78ea88f2-e74c-4aed-a938-9ef85a599262@online2.moyanri.org:40256?type=tcp&security=none&headerType=http&path=/&host=#IranV31
 vless://7a151a91-02ad-ad5a-8cf0-74f02f50416b@turkey-dtc1.mlgolden.store:4020?security=none&encryption=none&headerType=none&type=tcp#IranV31
